@@ -1,0 +1,9 @@
+.box {
+    height: 550px;
+    width: 550px;
+    background-color: white;
+    border: 1px solid #B4B4B4;
+section {
+    padding-top: 50px;
+    padding-left: 118px;
+}
